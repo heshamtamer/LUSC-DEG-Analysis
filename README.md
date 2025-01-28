@@ -41,10 +41,10 @@ This study analyzes paired gene expression (GE) data from TCGA to identify DEGs 
   - `independent_DEGs.csv`: DEGs from independent t-test.
 - **Volcano Plot**: `volcano_plot.png` highlights significant DEGs.
 
-- ![image](https://github.com/user-attachments/assets/a1253be3-40dd-47f4-93c6-2fc0c3d65641)
+  ![image](https://github.com/user-attachments/assets/a1253be3-40dd-47f4-93c6-2fc0c3d65641)
 - **GSEA Output**:
 
-- ![image](https://github.com/user-attachments/assets/c5ac4893-97f8-41c4-b412-603ccf98a42b)
+  ![image](https://github.com/user-attachments/assets/c5ac4893-97f8-41c4-b412-603ccf98a42b)
 ### 🔬 Contributors  
 - **[Hesham Tamer]**   
   [![GitHub](https://img.shields.io/badge/GitHub-heshamtamer-blue?logo=github)](https://github.com/heshamtamer)  
